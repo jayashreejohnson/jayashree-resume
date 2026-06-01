@@ -1,3 +1,3 @@
 # jayashree-resume
 
-📄 [Download Resume (PDF)](JayashreeJohnson_Resume.pdf)
+📄 [Download Resume (PDF)](JayashreeJohnson_StandardResume.pdf)
